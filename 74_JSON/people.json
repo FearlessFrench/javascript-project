@@ -1,0 +1,25 @@
+[{
+    "name": "Anri",
+    "age": 25,
+    "isEmployed": true,
+    "hobbies": ["Singing", "Dancing", "Reading"]
+},
+{
+    "name": "Miki",
+    "age": 30,
+    "isEmployed": false,
+    "hobbies": ["Singing", "Cooking", "Traveling"]
+},
+{
+    "name": "Kingo",
+    "age": 28,
+    "isEmployed": true,
+    "hobbies": ["Singing", "Gaming", "Photography"]
+},
+{
+    "name": "Reiko",
+    "age": 22,
+    "isEmployed": false,
+    "hobbies": ["Singing", "Drawing", "Writing"]
+}
+]
