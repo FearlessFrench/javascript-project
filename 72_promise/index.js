@@ -26,7 +26,7 @@ function cleanKitchen(callback){
     }, 2500);
 }
 
-function walkDog(callback){
+function trashTakenOut(callback){
 
     setTimeout(() => {
         console.log("You take out the trash 🗑");
@@ -61,7 +61,7 @@ function cleanKitchen(callback){
     });
 }
 
-function walkDog(){
+function trashTakenOut(){
     
     return new Promise((resolve, reject) => {
         setTimeout(() => {
@@ -111,7 +111,7 @@ function cleanKitchen(callback){
     });
 }
 
-function walkDog(){
+function trashTakenOut(){
     
     return new Promise((resolve, reject) => {
         setTimeout(() => {
