@@ -126,4 +126,4 @@ Feel free to fork this repository and submit your own JavaScript projects or imp
 <hr>
 
 ### License
-This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
