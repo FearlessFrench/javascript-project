@@ -88,6 +88,18 @@ This repository contains a collection of JavaScript projects and exercises, demo
 | 76_weather_app | A web application that fetches and displays weather data. |
 <hr>
 
+### Key Features of JavaScript
+1. __Client-Side Scripting__: JavaScript runs directly in the browser, allowing it to manipulate HTML and CSS dynamically. For example, it can update content, change styles, or respond to user interactions like clicks or keypresses.
+
+2. __Server-Side Capabilities__: With environments like __Node.js__, JavaScript can also run on servers, enabling developers to build full-stack applications using a single language.
+
+3. __Event Handling__: JavaScript can respond to browser events such as button clicks, mouse movements, or form submissions, making it essential for interactive web applications.
+
+4. __APIs and Libraries__: JavaScript supports a wide range of APIs (e.g., DOM, Geolocation, Canvas) and libraries (e.g., React, Angular) to extend its functionality.
+
+5. __Asynchronous Programming__: JavaScript supports asynchronous operations using __Promises__, __async/await__, and __callbacks__, which are crucial for tasks like fetching data from servers.
+<hr>
+
 ### Getting Started
 To run these projects, you can simply open the HTML files in your web browser. Most of the code will be contained within the HTML file itself or a linked JavaScript file.
 
